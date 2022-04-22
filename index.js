@@ -1,3 +1,5 @@
+// Given : subtotal: 10,75      tax: 1.38
+
 const subtotal = 19.75;
 const taxRate = 0.07;
 
